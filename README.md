@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mrbasiima@gmail.com**
 
-- ⚡ Fun fact **I like the aspect of getting rich, hihi**
+- ⚡ Fun fact **I think I am funny (try to take my word for it)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
