@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data science and machine learning projects**
 
-- 👨‍💻 All of my projects are available at [mrbasiima.me](mrbasiima.me)
+- 👨‍💻 All of my projects are available at [mrbasiima.me](https://mrbasiima.me)
 
 - 📫 How to reach me **mrbasiima@gmail.com**
 
