@@ -7,11 +7,15 @@
 
 - 📫 How to reach me **mrbasiima@gmail.com**
 
-<span align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</span>
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrbasiima/)
+  <a href="https://twitter.com/mrbasiima">
+   <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mrbasiima/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +33,15 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basiima&show_icons=true&locale=en&layout=compact" alt="basiima" /></p>
+<h3>My GitHub Stats &#x1f4c8;</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&locale=en" alt="basiima" /></p>
+<a href="https://github.com/basiima/basiima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiima&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/basiima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Julius' GitHub Stats" />
+</a>
+
+<br>
+<h3>Some Humour</h3>
+<span align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</span>
