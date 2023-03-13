@@ -41,7 +41,3 @@
 <a href="https://github.com/basiima">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Julius' GitHub Stats" />
 </a>
-
-<br>
-<h3>Some Humour</h3>
-<span align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</span>
