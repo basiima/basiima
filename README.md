@@ -17,9 +17,4 @@
 
 <h3>My GitHub Stats &#x1f4c8;</h3>
 
-<a href="https://github.com/basiima/basiima">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiima&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/basiima">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Julius' GitHub Stats" />
-</a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark&preferLogin=false">    <img  alt="basiima's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/basiima?cardType=level-alternate&theme=vue-dark&preferLogin=false" />  </a>
