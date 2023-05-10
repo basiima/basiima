@@ -17,4 +17,12 @@
 
 <h3>My GitHub Stats &#x1f4c8;</h3>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark&preferLogin=false">    <img  alt="basiima's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/basiima?cardType=level-alternate&theme=vue-dark&preferLogin=false" />  </a>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Basiima's Github Stats" src="https://github-readme-stats.vercel.app/api?username=basiima&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basiima&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+  <br/>
+  </p>
